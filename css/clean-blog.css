@@ -336,7 +336,7 @@ hr.small {
   }
 }
 .post-content-preview {
-  font-size: 14px;
+  font-size: 13px;
   font-style: normal;
   color: #a3a3a3;
 }
@@ -345,7 +345,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .post-content-preview {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 .section-heading {
