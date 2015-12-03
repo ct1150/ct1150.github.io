@@ -1,75 +1,44 @@
----
-layout: page
-title: "About"
-description: "学苟知本，六经皆我注脚 "
-header-img: "img/green.jpg"
----
+写作，是因为在奋斗和学习的过程中非常孤独和辛苦，借此来记录自己的成长过程，借此来发泄自己的想法，借此来督促自己不能放弃。
 
+感觉编程的过程中，是幸福的；在学习的过程中，是孤独的！
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
+# 联系方式
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+*   手机：15011959802
+*   Email：zyuanming@outlook.com
+*   QQ/微信号：279856811/大雄
 
-现在研习 **认知写作学** 。
+* * *
 
-###坚信
+# 个人信息
 
+*   张远铭/男/1990 
+*   本科/广东工业大学 
+*   工作年限：2年
+*   技术博客: <http://www.cnblogs.com/YungMing>
+*   Github: <https://github.com/zyuanming>
+*   目前就职于：百度
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+* * *
 
+# 工作经历
 
-###关注：
+## 广州云朗信息科技有限公司 （ 2012-12-01 ~ 2015-05-15）
 
+### [魔坛 iOS 客户端][1]
 
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+*   负责iOS客户端开发。 
+*   负责Android和iOS自动打包的开发，我们也提供站长自己上传证书，自动打包后由站长上传到App Store（高顿部落 iPhone版，可在App Store搜索）的功能。 
+*   关于证书和mobileprovision的认证，我写了一个[小脚本][3] 
+*   同时负责Android客户端的前期技术调研和初期开发。
+*   逆向工程了当时市面上的论坛 Android App，其中包括Discuz的官方Android app，并基本复原了所有的功能。[GitHub][4]. 做这个主要是当时技术选型时的调研：是插件开发还是无插件，网页抓取这种方式。
 
+### [顺企汇 iOS 客户端][2]
 
+*   负责全部的iOS开发工作。
+*   已经上线App Store，可以下载试用
 
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
-###联系
-
-- [博客：www.cnfeat.com](www.cnfeat.com)
-
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
-
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
-
-
-
-
-
-
+[1]: http://www.motnt.com
+[2]: http://www.shunqihui.com/
+[3]:https://github.com/zyuanming/verifyP12AndMobileProvision
+[4]:https://github.com/zyuanming/discuzforstudy
