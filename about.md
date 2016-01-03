@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "About"
-description: " "
+description: "my name is Hanson Zhang.On my way to change"
 header-img: "img/green.jpg"
 ---
 
 
 
-坚持，果敢
 
 # 联系方式
 
