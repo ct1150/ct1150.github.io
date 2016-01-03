@@ -1,19 +1,19 @@
 ---
 layout: page
 title: "milestone"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+description: "Life is Miracle"
 header-img: "img/zhihu.jpg"
 ---
 
 
-###转折：
+###Path：
 
 
-- 加入了魔坛，一起创业的时光
+- 加入了XOGroup旗下TheKnots.com广州研发中心——诺特软件开发有限公司 Android开发
 
-- 加入了百度，重新启航
+- 加入了ZTESoft 中兴软创 广州研发中心 Java开发
 
-- 遇见的每一个你
+- 追寻更好的自己
 
 
 
