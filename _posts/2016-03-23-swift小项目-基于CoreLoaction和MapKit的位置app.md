@@ -35,10 +35,6 @@ class ViewController: UIViewController , CLLocationManagerDelegate{
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-    
-//    override func preferredStatusBarStyle() -> UIStatusBarStyle {
-//        return UIStatusBarStyle.LightContent
-//    }
 
     @IBAction func FindButtonDidPressed(sender: AnyObject) {
         
@@ -109,5 +105,4 @@ class ViewController: UIViewController , CLLocationManagerDelegate{
             self.locationLabel.text = locality! + "-" +  postalCode! + "-" +  administrativeArea! + "-" +  country!
         }
     }
-
 }
