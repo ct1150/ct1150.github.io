@@ -1,0 +1,15 @@
+---
+layout: post
+title: test
+date: 2016-08-07
+categories: blog
+tags: [swift]
+description: test
+
+---
+
+这是一个测试页面
+![TEST](/assets/image/test.png)
+
+1.使用CoreLocation时，requestAlwaysAuthorization(),因为要获取位置权限，所以在info.plist里要添加NSLocationAlwaysUsageDescription和NSLocationWhenInUseUsageDescription这两个授权提示的描述，不然在debug的时候是进不到delegate实现的方法的。
+
