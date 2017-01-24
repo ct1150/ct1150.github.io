@@ -1,15 +1,15 @@
 # Site settings
-title: Hanson
+title: Cervantes
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Cervantes|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://ct1150.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "曹文頲"
+  email: ct1150@gmail.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: ct1150
+weibo_username: 
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
